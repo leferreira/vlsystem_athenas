@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="img-prod-loja.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 72.760414 91.016661"
+   height="344"
+   width="275">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="728"
+     inkscape:window-width="1344"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="205.60463"
+     inkscape:cx="374.16395"
+     inkscape:zoom="0.98994949"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(2.0010781e-8,-6.7275133)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="6.7275133"
+       x="-2.0010781e-08"
+       height="91.016663"
+       width="72.760414"
+       id="rect833"
+       style="fill:#cccccc;stroke-width:0.407435;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill" />
+    <path
+       style="fill:#808080;stroke-width:0.0363488"
+       d="M 45.535931,36.587447 V 47.05595 c 0,0.963249 -0.7815,1.744752 -1.74476,1.744752 h -15.12116 c -0.96325,0 -1.74476,-0.781503 -1.74476,-1.744752 V 36.587447 c 0,-0.963248 0.78151,-1.74475 1.74476,-1.74475 h 3.1987 l 0.4471,-1.195881 c 0.25444,-0.679727 0.90509,-1.130454 1.63207,-1.130454 h 4.56179 c 0.72698,0 1.37763,0.450727 1.63207,1.130454 l 0.45072,1.195881 h 3.19871 c 0.96326,0 1.74476,0.781502 1.74476,1.74475 z m -4.94347,5.234254 c 0,-2.406303 -1.95557,-4.361877 -4.36187,-4.361877 -2.40631,0 -4.36188,1.955574 -4.36188,4.361877 0,2.406298 1.95557,4.361875 4.36188,4.361875 2.4063,0 4.36187,-1.955577 4.36187,-4.361875 z m -1.16317,0 c 0,1.762925 -1.43577,3.198707 -3.1987,3.198707 -1.76292,0 -3.19871,-1.435783 -3.19871,-3.198707 0,-1.762926 1.43579,-3.198712 3.19871,-3.198712 1.76293,0 3.1987,1.435786 3.1987,3.198712 z"
+       id="path835" />
+    <text
+       id="text848"
+       y="58.52132"
+       x="7.1231475"
+       style="font-style:normal;font-weight:normal;font-size:5.53975px;line-height:1.25;font-family:sans-serif;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.138494"
+       xml:space="preserve"><tspan
+         style="fill:#666666;fill-opacity:1;stroke-width:0.138494"
+         y="58.52132"
+         x="7.1231475"
+         id="tspan846"
+         sodipodi:role="line">CARREGAR IMAGEM </tspan></text>
+    <text
+       id="text854-4"
+       y="64.611443"
+       x="35.286243"
+       style="font-style:normal;font-weight:normal;font-size:3.4318px;line-height:1.25;font-family:sans-serif;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.0857956"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;stroke-width:0.0857956"
+         y="64.611443"
+         x="35.286243"
+         id="tspan852-5"
+         sodipodi:role="line">O tamanho da imagem </tspan><tspan
+         id="tspan888"
+         style="text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;stroke-width:0.0857956"
+         y="68.901192"
+         x="35.286243"
+         sodipodi:role="line">deve ser de (275 x 344) pixel</tspan></text>
+  </g>
+</svg>

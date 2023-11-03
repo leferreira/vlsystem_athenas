@@ -1,0 +1,30 @@
+.area{ width:100%; margin:20px auto; position:relative; cursor:pointer;    height: inherit;}
+.js{position: relative; width:100%; height: 508px;margin:0 auto;}
+.prevBtn{background:url(../img/btn01.png) no-repeat center;height:auto; width: 52px; display:flex; position:absolute;left:0; align-items: center;opacity:.5;transition:opacity 0.5s linear;}
+.prevBtn:hover{background:url(../img/btn01.png) no-repeat center;height:auto;width: 52px; display:flex; position:absolute;left:0; align-items: center;opacity:1;transition:opacity 0.5s linear;}
+.nextBtn {background:url(../img/btn02.png) no-repeat center;height:auto; width: 52px; display:flex; right:0;position:absolute; align-items: center;opacity:.5;transition:opacity 0.5s linear;}
+.nextBtn:hover{background:url(../img/btn02.png) no-repeat center;height:auto; width: 52px; display:flex; right:0;position:absolute; align-items: center;opacity:1;transition:opacity 0.5s linear;}
+.imgSelected {background: url(../img/jsNav.png) no-repeat;}
+
+.jsNav{position: absolute;
+    bottom: 40px;
+    background:none;
+    left: 0;
+    right: 0;
+    text-align: center;}
+.jsNav a{
+	width: 20px;
+    font-size: 10px;
+    margin-right: 6px;
+    height: 33px;
+    line-height: 33px;
+    text-align: center;
+    color: #444;
+    display: inline-flex;
+    align-items: center;}
+.jsNav a i:hover{color: #FF9326; text-decoration:none;}
+.jsNav .imgSelected {color: #FF9326;}
+.qq{ display:flex; z-index:200;top: 0;bottom: 0;transform:all .3s linear}
+
+/*Adicionei*/
+.box01 img{width:100%}

@@ -1,0 +1,99 @@
+/*380*/
+@media (min-width:380px){
+	.produtos.detalhe.alt { margin-top: 9.9rem;}
+}
+
+/*520*/
+@media (min-width:520px){
+	.base-banner {
+		margin-top: 94px;
+		height: calc(64vh - 130px);
+		overflow: hidden;
+	}
+	 
+}
+
+/*600*/
+@media (min-width:600px){
+	.carrinho .table .thumb { width: 60px;}
+	.carrinho .table input[type=number] {width: 74px;}
+}
+/*700*/
+@media (min-width:700px){
+	.base-banner {height: calc(75vh - 130px)}
+	.Finalizado {padding:0 4rem}
+	.produtos.detalhe .det_prod .miniaturas {text-align:center;margin-right:0;}
+	.produtos.detalhe .det_prod .miniaturas a img {  height: 65px;}
+}
+
+/*880*/
+@media (min-width:880px){
+	.js { height: 347px;}
+	.base-banner { height: calc(95vh - 171px);}
+.produtos.detalhe .caixa-prod .tamanhos .d-flex.justify-content-space-between{display:flex!important}
+.produtos.detalhe .caixa-prod .tamanhos .d-flex.justify-content-space-between input[type=number]{width:100%!important}
+.produtos.detalhe .caixa-prod .tamanhos .d-flex.justify-content-space-between .col-3{width:initial!important}
+}
+/*991*/
+@media (min-width:991px){
+	.topo .conteudo .logo {  width: 194px;  height: 84px;}
+	.topo .conteudo .campo-busca { padding-top: 1.2rem;}
+	.conteudo {padding: 0 15px;}
+	.base-topo ul.menu-topo li, .rodape .sub ul.menu-topo li {
+		margin-left: 0.9rem;
+		padding-left: 0.9rem;
+		border-left: solid 1px #444431;
+	}
+	.base-topo ul.menu-topo.end{display:block}
+	.mobmenu.fas{display:none}
+	.jsNav {bottom: 0px;}
+	.menu-lateral{display:block}
+	.produtos .categorias .caixa-prod {height: 436px;}
+	.topo .conteudo {display: grid; justify-content: space-around; align-items: center; grid-template-columns: 11rem 46rem;}
+	.topo .conteudo .campo-busca .col-2 { top: 23px; right: 0px;}
+	.rodape .sub {display:block}
+	.produtos.detalhe.alt {margin-top: 8rem;}
+	
+	.caixa-carrinho .col-12.d-flex.dividir{display:flex!important}
+	.caixa-carrinho .col-3.d-flex{margin-top:0; padding-left:15px!important;padding-right:15px!important;}
+	.iniciar_loja {  padding-top: 4rem;  padding-bottom: 4rem;}
+	.iniciar_loja .h4 { font-size: 2rem!important; margin-bottom: 6px; display: block; font-weight: 700;color: #565454;}
+	.sem-banner {margin-top: 9rem!important;min-height: 68vh;}
+	.carrinho .tabela-responsiva thead tr:first-child{display:revert}
+.carrinho .broad{display:block}
+
+	.Finalizado {padding:0}
+	.Finalizado .fa-check-circle {  font-size: 9.1rem;}
+}
+
+/*1024*/
+@media (min-width:1024px){
+	.base-banner { height: calc(95vh - 122px);}
+	.jsNav {bottom: -37px;}
+	.window.medio{width:50%!important;}
+	.window.form{width:70%!important;}
+	.window.menor{width:30%!important;}
+}
+
+/*1200*/
+@media (min-width:1200px){
+	.produtos .categorias .caixa-prod { height: 433px;}
+	.window, .window.menor, .window.form, .window.medio {
+		position: fixed!important;
+		top: 10%!important;
+	}
+	.iniciar_loja {padding-top: 6rem; padding-bottom: 9rem;}
+	.iniciar_loja .h4 { font-size: 1.8rem!important;}
+	.iniciar_loja .h5 {font-size: 1.4rem!important; color: #4a4a42;}
+}
+
+/*1236*/
+@media (min-width:1236px){
+	.jsNav {bottom:-147px;}
+}
+
+/*1360*/
+@media (min-width:1360px){
+	.base-banner { height: calc(95vh - 83px);}
+	.topo ul.menu-carrinho .sub>ul, .base-topo .sub.alt ul {right: -137!important;}
+}

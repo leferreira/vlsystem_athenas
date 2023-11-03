@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="ico-fechar-caixa.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg851"
+   version="1.1"
+   viewBox="0 0 147.34547 147.34548"
+   height="147.34549mm"
+   width="147.34546mm">
+  <defs
+     id="defs845" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="728"
+     inkscape:window-width="1360"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="122.95675"
+     inkscape:cx="389.96522"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata848">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-7.5626875,-81.245064)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="stroke-width:0.290493;fill:#ffffff"
+       d="m 81.483836,82.985095 c -39.787958,0 -72.0422624,32.254315 -72.0422624,72.042265 0,39.78795 32.2543044,72.04226 72.0422624,72.04226 39.787944,0 72.042254,-32.25431 72.042254,-72.04226 0,-39.78795 -32.25431,-72.042265 -72.042254,-72.042265 z m 0,13.943658 c 32.108764,0 58.098594,25.984897 58.098594,58.098607 0,32.10877 -25.9849,58.0986 -58.098594,58.0986 -32.108777,0 -58.098601,-25.98489 -58.098601,-58.0986 0,-32.10877 25.984895,-58.098607 58.098601,-58.098607 m 40.728264,37.841667 -6.54655,-6.59943 c -1.35573,-1.36676 -3.56289,-1.37577 -4.92966,-0.0198 l -41.061755,40.73178 -17.36916,-17.51005 c -1.355731,-1.36677 -3.562892,-1.37578 -4.929667,-0.0201 l -6.599712,6.54655 c -1.366765,1.35573 -1.375768,3.5629 -0.01976,4.92996 l 26.371245,26.58475 c 1.35573,1.36678 3.562902,1.37578 4.929667,0.0198 l 50.135892,-49.73356 c 1.36648,-1.35602 1.37518,-3.56319 0.0194,-4.92996 z"
+       id="path1571" />
+  </g>
+</svg>

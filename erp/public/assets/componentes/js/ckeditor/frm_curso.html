@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Sistemas mjailton</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/grade.css">
+		
+		<script src="js/jquery-3.3.1.min.js"></script>
+	</head>
+<body>
+	<div class="site">
+	<div class="base-topo">
+		<div class="conteudo">
+			<a href="index.html" class="logo"><img src="img/logo.png"></a>
+			<div class="usuario">
+				<div class="txt">
+					<h1>Manoel jailton</h1>
+					<h2>adinistrador</h2>
+				</div>
+				<div class="thumb">
+					<img src="img/img-usuario.png">
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="conteudo">
+		<div class="menu">
+			<h1>painel de controle</h1>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="lst_categoria.html">Lista de Categoria</a></li>
+				<li><a href="lst_curso.html">Lista de cursos</a></li>
+				<li><a href="lst_aulas.html">lista de aulas</a></li>
+				<li><a href="lst_usuario.html">Lista de Usuários</a></li>
+				<li><a href="lst_duvidas.html">Lista de dúvidas</a></li>
+				<li><a href="#">Sair</a></li> 
+			</ul>
+		</div>
+		
+		<div class="base-direita">
+			<div class="caixa-home">
+			<h1>CADASTRO DE CURSO</h1>
+			<div class="base-lista">
+				<div class="base-form">
+					<form action="" method="">
+					<div>
+						<label class="cel6">
+							<span>Escolha uma categoria</span>
+							<select>
+								<option>PHP</option>
+								<option>JAVA</option>
+								<option>HTML</option>
+							</select>
+						</label>
+						
+						<label class="cel6">
+							<span>Ativo</span>
+							<select>
+								<option>Sim</option>
+								<option>Não</option>
+							</select>
+						</label>
+					</div>
+					
+						<label>
+							<span>Titulo do curso</span>
+							<input type="text" name="" placeholder="Titulo do curso">
+						</label>
+						<label>
+							<span>Embed do vídeo</span>
+							<input type="text" name="" placeholder="Embed do vídeo">
+						</label>
+						<label>
+							<span>IMAGEM DO CURSO</span>
+							<input type="file" name="">
+						</label>
+						
+						<div class="rows">
+							<label style="padding-bottom: 0px;"><span>Insira  o conteúdo</span></label>
+							<textarea rows="5" id="txtArtigo"  name="txtArtigo"></textarea>
+						</div>
+						
+						<script src="ckeditor/ckeditor.js"></script>
+						<script>CKEDITOR.replace( 'txtArtigo' );</script>
+						
+						
+						<input type="submit" name="" value="cadastrar" class="btn">
+						
+					</form>
+				</div>
+			</div>
+			</div>
+			
+			
+			<div class="base-rodape"><p>Copyright 2018 -mjailton.com.br</p></div>
+		
+		</div>
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,5 @@
+Nome da base de dados MySQL: u511012429_jeb
+
+usuario MySQL: u511012429_jeb2023
+
+senha: Jeb2023teste

@@ -1,0 +1,6 @@
+{"venda_id":null,"nfe_id":null,
+"chave":"21221113027524000118650010000000071000633281",
+"protocolo":"321220000072659",
+"tem_erro":false,
+"imprime_nfce":"S",
+"nfce_id":7}

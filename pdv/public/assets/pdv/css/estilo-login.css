@@ -1,0 +1,104 @@
+.base-login-util{
+	width:100%!important;
+	float:left;
+	background:#4B775B!important;
+	padding-top:0!important;
+	margin-top:0!important;
+}
+.base-login-util .caixa-login{
+	width:377px!important;
+	height:auto!important;
+	margin:100px auto!important;
+	background:#eee!important;
+	padding:20px 40px!important;
+	border-radius:4px!important;
+	-webkit-border-radius:4px;
+		-moz-border-radius:4px;
+			-o-border-radius:4px;
+	position:relative;
+	margin-bottom:0;
+	box-shadow:2px 2px 8px 0 #171b1a6b!important;
+}
+/*
+.base-login-util .caixa-login img{
+	position:absolute!important;
+	top:-70px!important;
+	left:50%!important;
+	margin-left:-60px!important;
+	z-index:2!important;
+}*/
+.base-login-util .caixa-login h1{
+	display: block!important;
+    margin-top: 10px!important;
+    text-align: center!important;
+    color:#5e8390!important;
+    padding-bottom: 6px!important;
+}
+.base-login-util .caixa-login label{
+	display:block!important;
+	margin-bottom:15px!important;
+}
+.base-login-util .caixa-login label input{
+	width:100%!important;
+	padding:12px!important;
+	background:#DDD!important;
+	border:solid 1px #ccc!important;
+}
+.base-login-util .caixa-login .btn{
+	font-size: 1.2em!important;
+    padding: 12px!important;
+    background: #0cb994!important;
+    width: 100%!important;
+    border-color: #12a082!important;
+}
+.caixa-login .mostrasenha{
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	margin-bottom:0;
+	display:none
+}
+.caixa-login .mostrasenha .caixa{
+	height:100%
+}
+
+.caixa-login .mostrasenha .sair{
+	position:absolute;
+	right:20px;
+	top:20px;
+	cursor:pointer;
+}
+.caixa-login .mostrasenha .sair:hover{
+	color:red
+}
+
+/*equeci minha senha*/
+.comsenha{background: #002040!important;}
+.comsenha .caixa{ min-height: auto!important;}
+.comsenha .caixa-login h1 { color: #a870e6!important; margin-top: 18px!important;}
+.comsenha .caixa-login{position:relative}
+.comsenha .caixa-login .mostrasenha{
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	margin-bottom:0;
+	display:none;
+	border-radius:5px
+}
+.comsenha .caixa-login .mostrasenha .caixa{
+	height:100%!important;
+}
+
+.comsenha .caixa-login .mostrasenha .sair{
+	position:absolute!important;
+	right:20px;
+	top:20px;
+	cursor:pointer;
+}
+.comsenha .caixa-login .mostrasenha .sair:hover{color:red!important;}
+.comsenha .caixa-login .mostrasenha .caixa{	padding:1rem 1.8rem!important;}
+.comsenha .caixa-login .btn {  background: #FFC107!important;   border-color: #FF9800!important;}
